@@ -79,6 +79,7 @@ Welcome to my **AWS Cloud Practitioner Guide** — a complete beginner-friendly 
 - [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 - [Free Practice Exams](https://www.aws.training/)
 - [YouTube – FreeCodeCamp AWS CCP Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
+- [Exam tips] (https://www.linkedin.com/feed/update/urn:li:activity:7385522206216286208/)
 
 ---
 
